@@ -6,11 +6,18 @@
 */DerivedDataCache/
 
 # Prosfair Addon Content #
-Prosfair_02/Content/InfinityBladeAdversaries/
-Prosfair_02/Content/InfinityBladeWarriors/
-Prosfair_02/Content/InfinityBladeWeapons/
-Prosfair_02/Content/StarterContent/
-Prosfair_02/Content/UltraDynamicSky/
+Prosfair_UE4v16/Content/InfinityBladeAdversaries/
+Prosfair_UE4v16/Content/InfinityBladeWarriors/
+Prosfair_UE4v16/Content/InfinityBladeWeapons/
+Prosfair_UE4v16/Content/StarterContent/
+Prosfair_UE4v16/Content/UltraDynamicSky/
 
 # Visual Studio Database Files (can be generated as well) #
 *.VC.db
+Prosfair_UE4v16/Content/LowPolyForest/
+Prosfair_UE4v16/Content/Particles/
+Prosfair_UE4v16/Content/Mannequin/
+Prosfair_UE4v16/Content/ThirdPerson/
+Prosfair_UE4v16/Content/ThirdPersonBP/
+Prosfair_UE4v16/Content/Maps/Landscape1_BuiltData.uasset
+Prosfair_UE4v16/Content/Maps/Landscape1.umap

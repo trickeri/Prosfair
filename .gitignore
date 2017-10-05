@@ -1,0 +1,16 @@
+# Unreal Generated Files #
+*/Binaries/
+*/Intermediate/
+*/Saved/
+*/Build/
+*/DerivedDataCache/
+
+# Prosfair Addon Content #
+Prosfair_02/Content/InfinityBladeAdversaries/
+Prosfair_02/Content/InfinityBladeWarriors/
+Prosfair_02/Content/InfinityBladeWeapons/
+Prosfair_02/Content/StarterContent/
+Prosfair_02/Content/UltraDynamicSky/
+
+# Visual Studio Database Files (can be generated as well) #
+*.VC.db
